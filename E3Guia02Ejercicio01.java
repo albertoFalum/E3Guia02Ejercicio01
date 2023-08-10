@@ -6,7 +6,7 @@ package e3guia02ejercicio01;
 
 /**
  *
- * @author BETO
+ * @author BETO Hola
  */
 public class E3Guia02Ejercicio01 {
 
